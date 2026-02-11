@@ -1,0 +1,301 @@
+PatientID,Age,Gender,BMI,BloodPressure,Condition,RiskScore,HighRisk
+1,56,Female,20.9,94,Hypertension,10.3,0
+2,69,Female,39.3,101,Hypertension,15.5,1
+3,46,Male,33.7,135,Heart Disease,13.2,1
+4,32,Female,18.9,123,Diabetes,7.6,0
+5,60,Male,26.8,138,Hypertension,13.1,1
+6,25,Male,27.5,134,Asthma,13.2,1
+7,78,Female,34.4,116,Heart Disease,14.4,1
+8,38,Male,23.5,115,Diabetes,8.3,0
+9,56,Male,22.1,136,None,11.5,0
+10,75,Male,19.8,145,Asthma,12.1,0
+11,36,Female,27.4,152,Hypertension,11.8,0
+12,40,Female,33.1,137,Hypertension,13.7,1
+13,28,Male,19.3,150,Asthma,11.1,0
+14,28,Female,38.1,115,Hypertension,13.2,1
+15,41,Female,27.7,125,Heart Disease,11.2,0
+16,70,Female,23.3,90,Diabetes,12.0,0
+17,53,Female,20.1,97,Heart Disease,8.1,0
+18,57,Male,22.0,141,Hypertension,10.8,0
+19,41,Male,38.6,136,None,13.2,1
+20,20,Female,32.0,145,Diabetes,11.7,0
+21,39,Female,29.4,103,Diabetes,11.4,0
+22,70,Male,32.5,117,Asthma,13.3,1
+23,19,Male,27.6,91,Asthma,8.3,0
+24,41,Female,34.1,115,None,13.3,1
+25,61,Male,19.0,103,Diabetes,9.7,0
+26,47,Female,30.5,148,None,13.0,1
+27,55,Female,21.5,145,Asthma,12.0,0
+28,19,Male,20.6,96,Asthma,8.0,0
+29,77,Male,25.5,92,Diabetes,11.8,0
+30,38,Female,20.0,112,Heart Disease,10.3,0
+31,50,Female,20.1,107,Hypertension,9.9,0
+32,29,Male,24.9,127,Asthma,11.1,0
+33,75,Female,39.5,104,Asthma,15.3,1
+34,39,Male,21.9,153,Heart Disease,12.9,1
+35,78,Female,18.4,117,Heart Disease,11.5,0
+36,61,Male,34.8,128,None,14.5,1
+37,42,Male,35.8,146,None,14.7,1
+38,66,Male,25.6,106,Hypertension,11.7,0
+39,44,Female,28.2,133,Hypertension,11.2,0
+40,76,Female,32.3,114,Diabetes,13.2,1
+41,59,Male,19.1,106,None,9.5,0
+42,45,Female,38.9,102,Asthma,12.1,0
+43,77,Male,37.5,114,None,15.1,1
+44,33,Male,23.7,157,Asthma,10.5,0
+45,32,Female,18.3,99,Heart Disease,8.4,0
+46,79,Female,38.5,156,None,16.2,1
+47,79,Male,29.0,107,Heart Disease,12.9,1
+48,64,Female,29.9,123,Hypertension,13.4,1
+49,79,Female,33.0,97,Hypertension,12.9,1
+50,68,Male,31.5,129,Diabetes,14.2,1
+51,61,Male,38.8,131,None,16.3,1
+52,72,Female,38.8,130,Heart Disease,15.6,1
+53,69,Male,37.1,95,Asthma,12.9,1
+54,74,Male,32.0,141,Hypertension,13.7,1
+55,20,Female,35.6,115,Hypertension,11.3,0
+56,54,Male,32.9,153,Asthma,13.3,1
+57,68,Male,30.6,148,Heart Disease,13.0,1
+58,24,Female,20.8,145,Heart Disease,9.9,0
+59,38,Female,35.8,148,None,13.3,1
+60,26,Male,36.1,159,None,13.5,1
+61,56,Male,31.8,122,Diabetes,14.0,1
+62,35,Female,36.0,142,Hypertension,13.0,1
+63,21,Female,32.3,111,None,9.7,0
+64,42,Female,22.5,110,Heart Disease,9.5,0
+65,77,Female,24.0,159,Asthma,14.2,1
+66,31,Male,22.7,159,Heart Disease,11.5,0
+67,67,Female,26.3,93,Hypertension,11.9,0
+68,75,Female,18.9,151,Heart Disease,11.4,0
+69,26,Male,31.6,151,Diabetes,12.9,1
+70,43,Female,25.4,113,Hypertension,11.6,0
+71,70,Male,32.4,144,Asthma,13.6,1
+72,19,Female,26.5,98,Diabetes,9.1,0
+73,37,Female,33.0,92,Hypertension,13.2,1
+74,45,Female,25.5,120,Asthma,10.2,0
+75,64,Male,23.7,129,Diabetes,10.1,0
+76,77,Male,28.9,125,Diabetes,14.8,1
+77,24,Female,33.2,113,Hypertension,12.4,1
+78,61,Male,25.7,95,None,10.6,0
+79,78,Male,38.6,155,Diabetes,16.2,1
+80,25,Male,18.9,93,Diabetes,6.6,0
+81,64,Male,27.2,95,Asthma,11.6,0
+82,52,Male,39.3,140,Heart Disease,15.8,1
+83,31,Male,30.1,151,Hypertension,11.6,0
+84,34,Female,27.3,146,Hypertension,12.4,1
+85,53,Female,30.5,155,None,13.9,1
+86,67,Male,30.7,97,None,13.0,1
+87,57,Female,34.1,115,Hypertension,12.6,1
+88,21,Female,20.8,140,None,9.1,0
+89,19,Female,23.5,134,Asthma,7.8,0
+90,79,Female,30.8,133,Hypertension,13.5,1
+91,23,Male,37.1,94,None,12.6,1
+92,71,Female,30.4,159,Hypertension,13.5,1
+93,59,Female,23.2,115,Heart Disease,10.3,0
+94,21,Male,33.0,157,Diabetes,13.0,1
+95,71,Male,34.3,108,Hypertension,14.1,1
+96,46,Female,23.2,109,Diabetes,10.9,0
+97,35,Female,26.3,101,None,8.9,0
+98,43,Female,29.8,136,Diabetes,14.8,1
+99,61,Female,28.9,90,Hypertension,10.3,0
+100,51,Female,26.6,103,Heart Disease,11.1,0
+101,27,Female,24.5,153,None,10.7,0
+102,79,Male,20.2,127,Hypertension,10.6,0
+103,53,Female,19.2,126,None,9.9,0
+104,31,Female,39.1,100,Asthma,12.4,1
+105,48,Male,36.6,92,Diabetes,11.8,0
+106,65,Male,25.8,122,Asthma,13.0,1
+107,32,Male,39.0,95,Hypertension,12.1,0
+108,25,Male,32.9,139,Heart Disease,10.7,0
+109,31,Female,28.6,99,None,8.8,0
+110,40,Female,28.8,94,Diabetes,11.2,0
+111,77,Female,19.8,112,None,9.7,0
+112,74,Female,20.0,99,Hypertension,11.0,0
+113,79,Female,31.3,133,None,14.6,1
+114,57,Female,30.2,91,Diabetes,10.6,0
+115,38,Male,22.7,102,Hypertension,10.4,0
+116,33,Female,38.8,129,None,11.6,0
+117,62,Male,35.2,91,Heart Disease,13.2,1
+118,35,Male,20.5,154,Hypertension,10.4,0
+119,64,Female,38.5,152,Hypertension,15.3,1
+120,70,Male,39.4,106,Heart Disease,13.4,1
+121,41,Female,39.9,98,Asthma,12.0,0
+122,43,Male,19.2,104,Diabetes,10.7,0
+123,42,Female,34.2,113,Asthma,13.5,1
+124,77,Male,30.0,127,None,14.4,1
+125,77,Female,33.5,124,Heart Disease,15.2,1
+126,77,Female,39.3,138,Asthma,16.7,1
+127,62,Female,33.1,158,Hypertension,14.1,1
+128,58,Female,36.4,151,None,14.8,1
+129,46,Female,37.1,149,None,12.7,1
+130,32,Male,36.4,139,Asthma,13.0,1
+131,62,Male,27.4,98,Asthma,12.7,1
+132,18,Male,22.9,123,Heart Disease,8.5,0
+133,42,Female,26.7,124,Diabetes,12.2,0
+134,24,Male,37.6,90,Asthma,11.5,0
+135,26,Female,21.2,129,Asthma,8.0,0
+136,41,Female,29.3,153,Hypertension,11.4,0
+137,18,Male,23.1,111,None,9.8,0
+138,61,Male,30.8,149,Diabetes,14.2,1
+139,25,Female,37.0,153,Hypertension,13.3,1
+140,41,Male,37.4,100,Heart Disease,12.3,1
+141,28,Female,23.2,103,Heart Disease,9.3,0
+142,68,Female,38.0,149,Asthma,16.4,1
+143,34,Female,31.0,119,Asthma,12.9,1
+144,25,Female,25.7,124,Heart Disease,11.6,0
+145,52,Female,33.6,126,Asthma,13.5,1
+146,52,Male,28.6,94,Diabetes,11.0,0
+147,50,Male,26.3,115,Asthma,11.4,0
+148,76,Female,33.5,151,None,15.6,1
+149,22,Female,23.5,93,Asthma,9.1,0
+150,59,Male,25.3,131,Hypertension,13.2,1
+151,56,Male,27.6,107,Diabetes,13.6,1
+152,75,Female,23.6,129,Hypertension,12.1,0
+153,58,Male,26.9,128,Hypertension,14.3,1
+154,45,Female,30.6,103,None,12.6,1
+155,24,Male,34.3,121,Diabetes,11.6,0
+156,26,Female,34.9,140,Diabetes,14.0,1
+157,25,Male,36.1,127,Diabetes,14.0,1
+158,29,Female,34.4,112,Diabetes,11.2,0
+159,51,Male,33.0,152,Diabetes,15.4,1
+160,50,Male,23.2,104,None,11.3,0
+161,65,Female,26.8,114,Asthma,14.4,1
+162,72,Male,28.5,106,Hypertension,12.1,0
+163,40,Female,19.8,155,Diabetes,10.3,0
+164,79,Male,29.6,142,Asthma,12.1,0
+165,41,Female,27.6,140,Asthma,12.3,1
+166,54,Male,35.6,128,Hypertension,14.0,1
+167,52,Female,39.5,140,None,14.1,1
+168,61,Male,30.2,159,Heart Disease,13.8,1
+169,57,Female,25.1,95,Heart Disease,9.4,0
+170,39,Male,19.0,156,Asthma,11.6,0
+171,44,Female,38.3,96,Hypertension,12.3,1
+172,52,Female,38.2,140,Heart Disease,17.5,1
+173,18,Female,23.6,131,Asthma,9.4,0
+174,52,Male,33.3,153,None,13.1,1
+175,54,Female,19.7,104,Heart Disease,9.3,0
+176,64,Male,21.7,118,Asthma,9.7,0
+177,31,Female,22.8,122,Asthma,10.3,0
+178,20,Male,24.5,116,Diabetes,9.0,0
+179,18,Female,39.9,125,None,13.8,1
+180,22,Male,33.3,118,Diabetes,11.0,0
+181,43,Male,26.5,127,Hypertension,12.6,1
+182,72,Female,34.2,146,Diabetes,15.6,1
+183,31,Male,38.1,116,Diabetes,12.7,1
+184,56,Male,39.1,144,Heart Disease,16.5,1
+185,44,Female,19.3,122,Asthma,10.7,0
+186,26,Male,26.7,157,None,14.3,1
+187,32,Male,20.3,155,Diabetes,9.9,0
+188,32,Male,25.4,99,None,9.7,0
+189,43,Female,21.7,94,Diabetes,10.9,0
+190,59,Male,32.2,127,Hypertension,11.7,0
+191,77,Female,26.5,102,Diabetes,13.5,1
+192,30,Male,23.0,120,Heart Disease,10.1,0
+193,68,Male,23.9,136,Asthma,11.4,0
+194,49,Male,25.9,141,Hypertension,10.5,0
+195,56,Female,23.7,145,Diabetes,11.2,0
+196,66,Male,28.0,104,None,9.7,0
+197,69,Male,18.7,118,Hypertension,10.2,0
+198,78,Female,24.2,97,Hypertension,12.3,1
+199,49,Male,27.0,94,Diabetes,10.2,0
+200,21,Female,31.3,118,Hypertension,12.2,0
+201,47,Female,24.0,136,None,12.9,1
+202,54,Male,20.9,157,Hypertension,12.9,1
+203,40,Female,19.7,134,None,10.2,0
+204,56,Male,38.7,91,Diabetes,10.9,0
+205,62,Female,27.2,116,Asthma,11.3,0
+206,32,Female,30.8,125,Hypertension,11.4,0
+207,60,Male,38.2,125,Asthma,13.5,1
+208,46,Female,19.8,115,None,9.6,0
+209,53,Female,37.3,132,Hypertension,15.7,1
+210,30,Female,30.1,116,Heart Disease,9.4,0
+211,49,Female,21.6,158,Asthma,13.3,1
+212,24,Female,27.0,109,Hypertension,10.8,0
+213,76,Male,35.1,100,Asthma,14.1,1
+214,68,Female,28.6,127,Hypertension,12.2,0
+215,39,Male,39.7,95,Diabetes,11.9,0
+216,45,Female,26.3,112,Asthma,9.2,0
+217,19,Male,34.5,136,Heart Disease,13.6,1
+218,59,Male,26.6,135,Heart Disease,13.9,1
+219,62,Female,36.2,101,None,12.0,0
+220,79,Female,30.5,102,Hypertension,12.6,1
+221,74,Female,19.4,151,Asthma,12.5,1
+222,70,Male,18.8,149,None,11.4,0
+223,23,Female,20.9,132,Asthma,7.4,0
+224,45,Male,18.3,157,Hypertension,10.0,0
+225,45,Male,19.7,94,Heart Disease,11.0,0
+226,61,Male,33.2,126,Diabetes,12.9,1
+227,61,Female,29.8,120,Heart Disease,12.4,1
+228,37,Female,34.5,98,None,10.5,0
+229,47,Male,38.1,140,Diabetes,14.8,1
+230,79,Male,30.9,118,None,13.8,1
+231,28,Female,34.0,129,Hypertension,11.3,0
+232,75,Male,34.7,130,Diabetes,13.3,1
+233,72,Female,26.3,100,None,13.3,1
+234,45,Male,23.3,112,Hypertension,8.7,0
+235,42,Female,22.5,90,Heart Disease,9.8,0
+236,56,Male,23.5,135,Hypertension,9.4,0
+237,79,Female,24.0,110,Asthma,12.8,1
+238,50,Male,22.6,125,Hypertension,11.7,0
+239,18,Female,37.3,143,Hypertension,13.7,1
+240,74,Female,34.7,146,Asthma,14.9,1
+241,44,Male,19.0,90,None,10.3,0
+242,79,Male,23.9,152,None,15.6,1
+243,74,Female,18.5,143,Hypertension,11.4,0
+244,69,Male,29.0,144,Asthma,13.1,1
+245,30,Female,28.5,129,Asthma,11.2,0
+246,58,Male,36.3,104,Heart Disease,12.8,1
+247,20,Female,24.8,110,None,8.6,0
+248,56,Female,36.0,136,Diabetes,13.5,1
+249,23,Female,39.3,142,None,15.0,1
+250,25,Female,19.9,98,None,8.9,0
+251,44,Female,35.4,141,Heart Disease,13.0,1
+252,26,Female,31.0,146,Diabetes,9.4,0
+253,79,Male,28.6,115,Heart Disease,11.6,0
+254,54,Male,27.3,130,Diabetes,12.6,1
+255,50,Male,35.3,124,Hypertension,11.2,0
+256,68,Female,32.1,152,Diabetes,14.7,1
+257,59,Female,35.7,114,Heart Disease,12.4,1
+258,61,Female,37.9,127,None,14.5,1
+259,41,Female,31.6,91,Diabetes,11.2,0
+260,32,Male,39.6,96,Diabetes,12.5,1
+261,76,Male,31.4,123,Asthma,13.4,1
+262,71,Female,32.0,106,None,12.7,1
+263,49,Male,30.2,132,Hypertension,11.7,0
+264,49,Male,20.0,148,Heart Disease,11.4,0
+265,41,Female,34.0,140,Hypertension,13.9,1
+266,58,Male,30.0,143,None,12.0,0
+267,69,Female,27.9,113,Diabetes,12.4,1
+268,66,Male,38.0,114,Diabetes,14.5,1
+269,79,Female,24.6,141,None,13.3,1
+270,66,Female,29.5,159,Diabetes,14.1,1
+271,75,Female,33.3,122,Diabetes,13.7,1
+272,69,Female,35.5,138,Diabetes,15.0,1
+273,29,Male,28.1,118,Heart Disease,11.2,0
+274,79,Female,36.5,152,Heart Disease,16.0,1
+275,56,Female,34.9,111,Asthma,13.6,1
+276,19,Female,19.5,115,Hypertension,9.3,0
+277,20,Male,19.0,117,None,6.5,0
+278,66,Female,31.7,138,None,14.7,1
+279,54,Male,25.6,138,None,12.3,1
+280,66,Female,22.6,109,Asthma,10.0,0
+281,73,Male,30.8,152,Heart Disease,15.2,1
+282,34,Male,25.5,150,Asthma,10.9,0
+283,76,Female,29.8,138,None,13.6,1
+284,66,Male,28.1,90,Hypertension,11.1,0
+285,19,Female,30.9,102,Diabetes,10.5,0
+286,19,Female,26.8,140,Heart Disease,9.7,0
+287,45,Female,33.3,145,Heart Disease,14.2,1
+288,71,Male,22.0,151,Asthma,12.3,1
+289,40,Male,33.3,121,Heart Disease,11.9,0
+290,54,Female,27.1,119,None,12.4,1
+291,49,Female,37.2,118,None,13.1,1
+292,50,Male,29.3,138,Asthma,13.4,1
+293,18,Female,39.4,134,None,13.8,1
+294,36,Female,31.2,119,Hypertension,10.3,0
+295,79,Female,22.9,105,Asthma,12.8,1
+296,19,Male,36.1,129,Hypertension,10.6,0
+297,70,Male,25.6,108,Diabetes,13.0,1
+298,61,Male,25.6,107,Hypertension,13.4,1
+299,43,Female,18.7,90,Diabetes,9.5,0
+300,49,Female,30.1,136,Diabetes,10.4,0
