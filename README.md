@@ -51,6 +51,10 @@ Python was used for data cleaning and exploratory data analysis, and Power BI wa
 * Age Group Pie Chart
 * Interactive Filters
 
+## Dashboard Preview
+![Healthcare Dashboard](dashboard.png)
+
+
 ---
 
 ## Project Structure
